@@ -10,6 +10,9 @@ int string_equal(const char *s, const char *t);
 
 int main(int argc, char *argv[])
 {
+    printf("This is C study code from Chen. \n");
+    printf("Compiled on %s at %s\n\n", __DATE__, __TIMESTAMP__);
+
     char *planets[] = {"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Urans", "Neptune"};
     int i, j;
 
