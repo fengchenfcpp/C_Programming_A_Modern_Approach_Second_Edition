@@ -1,4 +1,15 @@
-/* Formats a file of text */
+/***************************************
+ * Formats a file of text 
+ * 
+ * compile all resource to 1 execution file:
+ * gcc -o .\justify .\justify.c .\line.c .\word.c
+ * 
+ * run program:
+ * .\justify.exe
+ * 
+ * run program and output result to a file quote
+ * justify.exe > quote
+ ***************************************/
 
 #include <string.h>
 #include "line.h"
