@@ -1,3 +1,9 @@
+/***************************************
+ * compile to 1 execution file: 
+ * 
+ * gcc -o pun .\2_1_pun.c
+ ***************************************/
+
 #include <stdio.h>
 
 int main(void)
