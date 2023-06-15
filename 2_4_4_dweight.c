@@ -17,5 +17,4 @@ int main(void)
     printf("Dimensional weight (pounds): %d\n", weight);
 
     return 0;
-
 }
