@@ -9,6 +9,7 @@ int main(void)
     n = 0;
     sum = 0;
 
+    printf("Please input 10 numbers: \n");
     while (n < 10)
     {
         scanf("%d",  &i);
