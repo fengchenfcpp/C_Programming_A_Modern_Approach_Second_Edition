@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main(void)
+{
     int a, b, temp;
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
